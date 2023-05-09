@@ -20,7 +20,7 @@ Make accurate predictions: Make a model to predict market value of fooball playe
 1. **Data Cleaning**: Handling missing values, removing duplicates, correcting data types, renaming columns, handling inconsistencies in data..
 2. **Data Wrangling**: Filtering rows based on conditions, sorting data, reshaping data, grouping data based on categories..
 3. **Hypothesis Case**: 
-  Let's imagine that one of the top teams in the world is interested in signing a player for the next season and has to make a decision soon. We will identify the best options by answering the     following questions:
+  Let's imagine that one of the top teams in the world is interested in signing a player for the next season and has to make a decision soon. We will identify the best options taking as a sample the following questions:
   
 - Who are the 10 best players according to their statistics and performance?
 - Who are the  best players in every position in the game?
