@@ -9,7 +9,7 @@ The dataset contains information of all **17125** players from FIFA 21 edition. 
 ## Challenges
 Perform an end-to-end analysis applying statistical or machine learning techniques and present the results.
 
-Inadecuate pricing: A club might may spend too much for a player that is not worth or sell a promisiong at low price.
+Avoid Inadecuate pricing: A club might may spend too much for a player that is not worth or sell a promisiong at low price.
 
 ## Objectives
 Providing insights: Assist player signings by filtering datapoints to provide useful information for scouts our staff dealing with buying/selling players.
