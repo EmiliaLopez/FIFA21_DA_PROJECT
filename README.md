@@ -25,7 +25,7 @@ Make accurate predictions: Make a model to predict market value of fooball playe
 - Who are the 10 best players according to their statistics and performance?
 - Who are the  best players in every position in the game?
 - Who are the 5 players under 25 years old with the highest potential?
-- Players with the highest release clauses and their Ratings
+- Players with the highest release clauses and their Ratings.
 - What is the player's salary and market value compared to other players in the same position?
 
 4. **EDA**: computing statistics, cratin visualization to explore data, exploring distribution, identifying correlations, detecting patterns and trends in data.
