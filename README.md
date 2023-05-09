@@ -42,5 +42,10 @@ During the project I used Python 3.8 as programming language and the following l
 - Seaborn
 - Sklearn
 
+## Find me on 
 
+[![LinkedIn](https://shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-l%C3%B3pez-reviriego/)
 
+## Autor
+
+*Emilia, 2023.
