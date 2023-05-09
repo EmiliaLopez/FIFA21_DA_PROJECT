@@ -32,6 +32,16 @@ The dataset contains information of all **17125 players** from FIFA 21 edition. 
 5. **Predicting Market Value**: splitting data into Features, train/Test Split data, transform data for training a Linear Regression model, train and test models using normalized and standardized numerical data.
 6. **Summarize results/conclusions**.
 
+## Technologies 
+
+During the project I used Python 3.8 as programming language and the following libraries:
+
+- Pandas
+- Numpy
+- Scipy
+- Matplotlib
+- Seaborn
+- Sklearn
 
 
 
