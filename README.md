@@ -37,8 +37,7 @@ The dataset contains information of all **17125 players** from FIFA 21 edition. 
 During the project I used Python 3.8 as programming language and the following libraries:
 
 - Pandas
-- Numpy
-- Scipy
+- NumPy
 - Matplotlib
 - Seaborn
 - Sklearn
