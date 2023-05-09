@@ -30,7 +30,7 @@ Make accurate predictions: Make a model to predict market value of fooball playe
 
 4. **EDA**: computing statistics, cratin visualization to explore data, exploring distribution, identifying correlations, detecting patterns and trends in data.
 5. **Predicting Market Value**: splitting data into Features, train/Test Split data, transform data for training a Linear Regression model, train and test models using normalized and standardized numerical data.
-6. ** Summarize results or conclusions**.
+6. **Summarize results or conclusions**.
 
 
 
