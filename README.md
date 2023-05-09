@@ -4,7 +4,7 @@ FIFA 21 is a football simulation video game developed by EA Vancouver as part of
 
 ![](https://github.com/EmiliaLopez/FIFA21_DA_PROJECT/blob/main/fifa.jpg)
 
-The dataset contains information of all *17125* players from FIFA 21 edition. There are 106 attributes including Age, Nationality, Overall, Potential, Club, Value, Wage, Preferred Foot, International Reputation, Weak Foot, Skill Moves, Work Rate, Position, Jersey Number, Joined, Loaned From, Contract Valid Until, Height, Weight among others.
+The dataset contains information of all **17125** players from FIFA 21 edition. There are 106 attributes including Age, Nationality, Overall, Potential, Club, Value, Wage, Preferred Foot, International Reputation, Weak Foot, Skill Moves, Work Rate, Position, Jersey Number, Joined, Loaned From, Contract Valid Until, Height, Weight among others.
 
 The steps for this process are as follows:
 
