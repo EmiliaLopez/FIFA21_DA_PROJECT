@@ -8,9 +8,7 @@ The dataset contains information of all 17125 players from FIFA 21 edition. Ther
 
 The steps for this process are as follows:
 
-<span style="color:blue">
-**Data Cleaning**
-</span>: Handling missing values, removing duplicates, correcting data types, renaming columns, handling inconsistencies in data...
+**Data cleaning**: Handling missing values, removing duplicates, correcting data types, renaming columns, handling inconsistencies in data...
 **Data Wrangling**: Filtering rows based on conditions, Sorting data,Reshaping data, Grouping data based on categories...
 
 Let's imagine that one of the top teams in the world is interested in signing a player for the next season and has to make a decision soon. We will identify the best options by answering the following questions:
