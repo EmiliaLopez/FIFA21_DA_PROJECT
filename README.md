@@ -7,14 +7,14 @@ FIFA 21 is a football simulation video game developed by EA Vancouver as part of
 The dataset contains information of all **17125** players from FIFA 21 edition. There are **106 attributes** including Age, Nationality, Overall, Potential, Club, Value, Wage, Preferred Foot, International Reputation, Weak Foot, Skill Moves, Work Rate, Position, Jersey Number, Joined, Loaned From, Contract Valid Until, Height, Weight among others.
 
 ## Challenges
-Perform an end-to-end analysis applying statistical or machine learning techniques and present the results.
+**Perform an end-to-end analysis** applying statistical or machine learning techniques and present the results.
 
-Avoid Inadecuate pricing: A club might may spend too much for a player that is not worth or sell a promisiong at low price.
+**Avoid Inadecuate pricing**: A club might may spend too much for a player that is not worth or sell a promisiong at low price.
 
 ## Objectives
-Providing insights: Assist player signings by filtering datapoints to provide useful information for scouts our staff dealing with buying/selling players.
+**Providing insights**: Assist player signings by filtering datapoints to provide useful information for scouts our staff dealing with buying/selling players.
 
-Make accurate predictions: Make a model to predict market value of fooball players. Clubs also have the opportunity to make assign a fair market price for players they want to buy and avoid paying too much for players and use wisely their budget.
+**Make accurate predictions**: Make a model to predict market value of fooball players. Clubs also have the opportunity to make assign a fair market price for players they want to buy and avoid paying too much for players and use wisely their budget.
 
 ## Workflow
 1. **Data Cleaning**: Handling missing values, removing duplicates, correcting data types, renaming columns, handling inconsistencies in data..
