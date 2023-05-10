@@ -16,7 +16,7 @@ The dataset contains information of all **17125 players** from FIFA 21 edition. 
 ## Objectives
 **Providing insights**: Assist player signings by filtering datapoints to provide useful information for scouts our staff dealing with buying/selling players.
 
-**Make accurate predictions**: Make a model to predict market value of fooball players. Clubs also have the opportunity to make assign a fair market price for players they want to buy and avoid paying too much for players and use wisely their budget.
+**Make accurate predictions**: Predict market value of fooball players. Clubs can have the opportunity to assign a fair market price for players they want to buy and avoid paying too much for players and use wisely their budget.
 
 ## Workflow
 1. **Data Cleaning**: Handling missing values, removing duplicates, correcting data types, renaming columns, handling inconsistencies in data..
