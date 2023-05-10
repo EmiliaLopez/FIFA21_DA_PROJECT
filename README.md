@@ -28,7 +28,7 @@ The dataset contains information of all **17125 players** from FIFA 21 edition. 
 - Who are the  best players in every position in the game?
 - Who are the 5 players under 25 years old with the highest potential?
 - Players with the highest release clauses and their Ratings.
-- What is the player's salary and market value compared to other players in the same position?
+- - What is the market value of the Top 1O players?
 
 4. **EDA**: computing statistics, cratin visualization to explore data, exploring distribution, identifying correlations, detecting patterns and trends in data.
 5. **Predicting Market Value**: splitting data into Features, train/Test Split data, transform data for training a Linear Regression model, train and test models using normalized and standardized numerical data.
