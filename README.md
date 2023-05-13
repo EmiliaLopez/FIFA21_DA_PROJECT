@@ -34,18 +34,19 @@ The dataset contains information of all **17125 players** from FIFA 21 edition. 
 5. **Predicting Market Value**: splitting data into Features, train/Test Split data, transform data for training a Linear Regression model, train and test models using normalized and standardized numerical data.
 6. **Summarize results/conclusions**.
 
-⚽ Strong correlation between wage, release clause and their market value.
+🔹 Strong correlation between wage, release clause and their market value.
 
-⚽ Players with a high release clause and wage is likely to be more valuable in the transfer market because it indicates that they are in demand and their current club values them highly. Release clause and wage could also be influenced by a player's performance and potential.
+🔹 Players with a high release clause and wage is likely to be more valuable in the transfer market because it indicates that they are in demand and their current club values them highly. Release clause and wage could also be influenced by a player's performance and potential.
 
-⚽ Presence of many extreme outliers in the distribution of certain characteristics could have skewed the analysis and made it more difficult to draw meaningful conclusions.
+🔹 Presence of many extreme outliers in the distribution of certain characteristics could have skewed the analysis and made it more difficult to draw meaningful conclusions.
 
-⚽ Additionally, not taking into consideration account the player's position may have also impacted the results, as certain characteristics may be more important for certain positions on the field.
+🔹 Additionally, not taking into consideration account the player's position may have also impacted the results, as certain characteristics may be more important for certain positions on the field.
 
 The model and errors could be improved by trying other statistical methods such as robust regression or random forest.
 
-Overall, as a football lover this project was a great opportunity for me to apply my data analysis skills in a practical setting. I learned a lot about FIFA 21 and the factors that contribute to a player's value. I ❤️ FIFA! 🎮
+Overall, as a football lover this project was a great opportunity for me to apply my data analysis skills in a practical setting. I learned a lot about FIFA 21 and the factors that contribute to a player's value.
 
+ I ❤️ FIFA! 🎮
 
 
 ## Technologies 
