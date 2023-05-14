@@ -38,9 +38,14 @@ The dataset contains information of all **17125 players** from FIFA 21 edition. 
 
   🔹 Players with a high release clause and wage is likely to be more valuable in the transfer market because it indicates that they are in demand and their current club values them highly. Release clause and wage could also be influenced by a player's performance and potential.
 
-  🔹 Presence of many extreme outliers in the distribution of certain characteristics could have skewed the analysis and made it more difficult to draw meaningful conclusions.
+  🔹 The determination coefficient hardly varies by eliminating the categorical data from the model. When I eliminate the variable that has a high correlation with our predictor variable, release clause, r2 falls below 0. In the next analysis round I’ll test how it responds with a model focused only on ‘n’ numerical variables. 
+  
+  🔹Presence of many extreme outliers in the distribution of certain characteristics could have skewed the analysis and made it more difficult to draw meaningful conclusions.
+ 
 
   🔹 Additionally, not taking into consideration account the player's position may have also impacted the results, as certain characteristics may be more        important for certain positions on the field.
+  
+
 
 The model and errors could be improved by trying other statistical methods such as robust regression or random forest.
 
